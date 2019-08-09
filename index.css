@@ -1,0 +1,14 @@
+input {
+	width: 128px;
+	font-size: 14px;
+	height: 40px;
+	text-align: right;
+}
+
+button {
+	font-size: 200%;
+	width: 40px;
+}
+
+
+
